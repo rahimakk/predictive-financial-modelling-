@@ -71,13 +71,13 @@ Two prediction paths are implemented:
 ```bash
 git clone https://github.com/rahimakk/predictive-financial-modelling-.git
 cd predictive-financial-modelling-
-
+```
 
 ###  Install Required Packages
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 
 ###  Launch the Notebook
 
